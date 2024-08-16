@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Kasbo.props" />
+</Project>
